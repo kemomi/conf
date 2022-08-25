@@ -1,0 +1,27 @@
+iOS-V2ray苹果手机客户端App程序下载
+苹果AppStore市场里还没有免费的V2ray iOS客户端，付费的app目前有小火箭Shadowrocket、pepi、i2Ray、Kitsunebi和Quantumult（圈儿，圈叉）可用。
+
+ShadowsocksR/SSR客户端下载
+ShadowsocksR简称SSR，还有酸酸乳、粉色小飞机、纸飞机这些可爱的昵称，使用较为广泛。
+
+不过了了整理了最新版SSR Windows客户端、SSR安卓客户端、苹果电脑SSR MacOS客户端和苹果手机SSR iOS客户端的下载地址分享给大家。
+
+
+iOS-SSR小飞机 苹果手机客户端App程序下载
+iPhone或者iPad打开苹果App Store，搜索Mume(暮梅)、Potatso Lite、FastSocks、Shadowrocket（小火箭）。
+
+长期可用SS/SSR/V2ray免费机场
+SS免费节点订阅地址
+-可用节点66个
+
+https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub
+
+V2ray免费节点订阅地址
+-可用节点27个
+
+https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray
+
+SSR免费节点订阅地址
+-可用节点36个
+
+https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
